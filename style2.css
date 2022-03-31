@@ -1,0 +1,65 @@
+body{
+	background-color:#ccffe5;
+}
+.container{
+	width:900px;
+	margin: auto;
+	background-color: #33cccc;
+	padding-right: 10px
+}
+.header .judul{
+	font-size: 70px;
+	font-weight: bold;
+	margin: auto;
+	padding-bottom:5px;
+	text-align: center;
+}
+.hero{
+	display: inline-block;
+	height: 400px;
+	width: 900px;
+	background-repeat: no-repeat;
+	background-image: url(foto/pradita2.jpg);
+	background-size: cover;
+	border: 5px solid aquamarine
+}
+.contem{
+	padding: 20px;
+}
+.conten h2{
+	font-size: 50px;
+	font-weight: bold;
+	margin-top: -5px;
+	padding-left: 5px;
+}
+.conten .penulis{
+	font-size: 15px;
+	margin-top: -40px;
+	padding-left: 5px;
+}
+.conten .penulis a{
+	color: #9932CC
+	text decoration
+}
+.conten p{
+	font-size: 20px;
+	margin-left: 10px;
+}
+.footer {
+	background-color: aquamarine;
+	display: inline-block;
+	height: 200px;
+	width: 900px;
+	margin: auto;
+	padding-left:20px
+	font-size:50px;
+}
+.link{
+	width: 70px;
+	height:70px;
+	display: inline-block;
+	background-image: url(foto/love2.png);
+	margin: auto;
+	background-origin: no-repeat;
+	text-indent:-99999px;
+	margin-left:10px;

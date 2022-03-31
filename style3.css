@@ -1,0 +1,178 @@
+body{
+	background-image: url(image/love2.jpg);
+}
+.opening{
+	width:900px;
+	margin: auto;
+	background-color: #33cccc;
+	border: 5px solid black;
+	position:relative;
+}
+.opening .awal{
+	width: 900px;
+	height: 280px;
+	background-color:#66ffff;
+	margin: auto;
+}
+.nama{
+	font-size: 70px;
+	font-family: "Times New Roman", Times, serif;
+	margin:auto;
+	color: #ffcc00;
+	background-color: #0066ff;
+	display: inline-block;
+	position: relative;
+	top:10px;
+	right: -300px;
+}
+.foto{
+	height: 240px;
+	background-repeat: no-repeat;
+	background-image: url(image/dita2.png);
+	padding-left: 20px;
+	position: relative;
+	left: 30px;
+	top: 10px;
+}
+.link{
+	width: 150px;
+	height:150px;
+	margin:100px, auto
+	background-repeat:no-repeat;
+	display: inline-block;
+	background-image: url(image/love.png);
+	position: relative;
+	left:500px;
+	top: -130px;
+	text-indent: -9999999px;
+}
+.kata{
+	position: relative;
+}
+.container{
+	width: 900px;
+	height: 250px;
+	margin:auto;
+	padding-top: 20px;
+	background-color:#FFFFF0;
+	color:green;
+	overflow-x: scroll;
+	border:2px solid black;
+	float: left;
+	font-family: "Trirong", serif;
+	left: 500px;
+	padding-bottom: 10px;
+}
+
+.satu {
+	height: 200px;
+	width:800px;
+	font-size: 70px;
+	color: #3333ff;
+	display: inline-block;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color: #66ff33;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.dua {
+	height: 200px;
+	width:800px;
+	font-size: 70px;
+	color: #3333ff;
+	display: inline-block;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color:#ccffcc;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.tiga {
+	height: 200px;
+	width:800px;
+	font-size: 65px;
+	display: inline-block;
+	color:  #3333ff;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color: #66ff33;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.empat{
+	height: 200px;
+	width:800px;
+	font-size: 80px;
+	color: #3333ff;
+	display: inline-block;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color:#ccffcc;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.lima{
+	height: 200px;
+	width:800px;
+	font-size: 80px;
+	display: inline-block;
+	color:  #3333ff;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color: #66ff33;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.enam{
+		height: 200px;
+	width:800px;
+	font-size: 80px;
+	color: #3333ff;
+	display: inline-block;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color:#ccffcc;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
+.tujuh{
+	height: 200px;
+	width:800px;
+	font-size: 80px;
+	display: inline-block;
+	color:  #3333ff;
+	left: 20px;
+	top: -5px;
+	padding-top: 54px;
+	padding-bottom:10px;
+	padding-left: 20px;
+	background-color: #66ff33;
+	position: relative;
+	margin: auto;
+	border: 5px solid #666699
+}
